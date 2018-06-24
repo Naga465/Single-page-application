@@ -1,5 +1,6 @@
 # Single-page-application
 Run :
+
    npm install
 	
    npm start
